@@ -21,3 +21,6 @@
 # __truediv__ = /
 # __eq__ = ==
 # __ne__ = !=
+
+# ----------------------------------------------------------
+# zip function -> returns iterators in tuble of mulitple iterables.
