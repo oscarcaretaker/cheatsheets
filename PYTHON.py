@@ -24,3 +24,4 @@
 
 # ----------------------------------------------------------
 # zip function -> returns iterators in tuble of mulitple iterables.
+# use bs4 for web
