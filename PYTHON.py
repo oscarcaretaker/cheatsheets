@@ -24,5 +24,3 @@
 
 # ----------------------------------------------------------
 # zip function -> returns iterators in tuble of mulitple iterables.
-# use bs4 for web
-# i am using llama3.2
