@@ -23,4 +23,4 @@
 # __ne__ = !=
 
 # ----------------------------------------------------------
-# zip function -> returns iterators in tuble of mulitple iterables.
+# zip function -hb> returns iterators in tuble of mulitple iterables.
