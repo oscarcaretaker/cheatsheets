@@ -21,6 +21,6 @@
 # __truediv__ = /
 # __eq__ = ==
 # __ne__ = !=
-
+# re 
 # ----------------------------------------------------------
 # zip function -hb> returns iterators in tuble of mulitple iterables.
