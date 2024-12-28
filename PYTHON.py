@@ -4,7 +4,7 @@
 # filter() - check all element of container for specific function.
 # reduce() - to apply sequential function to elements.
 
-
+/////
 # ------------------------------------------------------------ #
 
 # ACCESS CONTROL IN PYTHON
