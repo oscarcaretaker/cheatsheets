@@ -1,4 +1,4 @@
-eeeeee# Python Cheat-sheet for quick revision
+# Python Cheat-sheet for quick revision
 
 # map() - apply to each element of container.
 # filter() - check all element of container for specific function.
@@ -12,7 +12,7 @@ eeeeee# Python Cheat-sheet for quick revision
 #  __var -> Private
 
 # ------------------------------------------------------------- #
-xcxcvxcxcxcxcREDDIT selinium base
+ selinium base
 # OPERATOR OVERLOADING
 # __add__ = +
 # __sub__ = -
